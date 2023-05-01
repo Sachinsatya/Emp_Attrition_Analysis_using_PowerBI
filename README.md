@@ -28,5 +28,5 @@ GitHib link : https://github.com/Sachinsatya/Emp_Attrition_Analysis_using_PowerB
 
 #dataanalysis #powerbi #learning #projects #dataanalysis #datascience #supermarket #ecommerce #cx
 
-Nitin SuntwalGautam AgarwalUlhas kulkarni
+
 
